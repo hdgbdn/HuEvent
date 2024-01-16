@@ -1,0 +1,21 @@
+{
+    "name": "com.hudi.huevent",
+    "version": "0.0.1",
+    "displayName": "Hu Event",
+    "description": "A simple event system for Unity",
+    "unity": "2022.3",
+    "unityRelease": "16f1",
+    "documentationUrl": "",
+    "changelogUrl": "",
+    "licensesUrl": "",
+    "dependencies": {
+   },
+   "keywords": [
+      "Event system"
+    ],
+    "author": {
+      "name": "Hu Di",
+      "email": "hdgbdn92@gmail.com"
+    }
+  }
+  
